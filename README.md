@@ -7,15 +7,11 @@
 |_|  |_|\__,_/_/\_\_|_| |_| |_|\___| \_____|_____|______|______|______|
 ```
 
-**`$ whoami`** → Analyste Cybersécurité | Passionné par la tech & les jeux vidéo 🎮🔐
+**** → Analyste Cybersécurité | Passionné par la tech & les jeux vidéo 🎮🔐
 
 ---
 
 ### 🛡️ À propos
-
-```bash
-root@maximegille:~$ cat /usr/share/info/about.txt
-```
 
 Analyste cybersécurité avec **3 ans d'expérience** en alternance chez **Icade**.  
 Spécialisé dans l'analyse de menaces, la réponse aux incidents et l'implémentation de solutions de sécurité.
@@ -27,9 +23,6 @@ Spécialisé dans l'analyse de menaces, la réponse aux incidents et l'implémen
 
 ### 🔧 Compétences Techniques
 
-```bash
-root@maximegille:~$ ls -la /skills/
-```
 
 | Domaine | Technologies |
 |---------|-------------|
@@ -43,10 +36,6 @@ root@maximegille:~$ ls -la /skills/
 
 ### 📂 Projets
 
-```bash
-root@maximegille:~$ find /projects -type f -name "*.sec"
-```
-
 | Projet | Description | Stack |
 |--------|-------------|-------|
 | **MiniTeams-ESIEE-IT** | Clone de Microsoft Teams (version initiale) | C, Shell |
@@ -59,10 +48,6 @@ root@maximegille:~$ find /projects -type f -name "*.sec"
 
 ### 🏆 Expériences
 
-```bash
-root@maximegille:~$ git log /jobs --oneline
-```
-
 - **2023-2026** → Analyste Cybersécurité @ **Icade**
 - **2023-2026** → Membre @ **Raiki** (Association E-sport)
 - **2021-2023** → Technicien Support @ **Icade**
@@ -71,10 +56,6 @@ root@maximegille:~$ git log /jobs --oneline
 ---
 
 ### 📜 Certifications & Diplômes
-
-```bash
-root@maximegille:~$ cat /etc/certs/list.txt
-```
 
 - ✅ Mastère E3IN Cybersécurité (RNCP39425) - ESIEE-IT
 - ✅ Licence Informatique Générale - CNAM
