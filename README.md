@@ -7,7 +7,7 @@
 |_|  |_|\__,_/_/\_\_|_| |_| |_|\___| \_____|_____|______|______|______|
 ```
 
-**** → Analyste Cybersécurité | Passionné par la tech & les jeux vidéo 🎮🔐
+Analyste Cybersécurité | Passionné par la tech & les jeux vidéo 🎮🔐
 
 ---
 
